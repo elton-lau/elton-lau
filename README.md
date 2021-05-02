@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I'm Elton. Aspired to make something to make the life of Scrum Masters easier.
+### Hi there 👋 I'm Elton!
 
 * 🚀 Programming Languages: **JavaScript**, **TypeScript**, **Python**
 * 🔭 I’m currently working on: MEAgile - progressive framework for team agility
