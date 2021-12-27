@@ -2,7 +2,7 @@
 
 * 🚀 Programming Languages: **JavaScript**, **TypeScript**, **Python**
 * 🔭 I’m currently working on: MEAgile - progressive framework for team agility
-* 🌱 I’m currently reading: [Mastering React Test-Driven Development](https://play.google.com/store/books/details?id=XVqWDwAAQBAJ&)
+* 🌱 I’m currently reading: [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
 * 📫 How to reach me: twilightlau94@gmail.com or [LinkedIn](https://www.linkedin.com/in/elton-lau/)
 
 <!--
