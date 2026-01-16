@@ -1,15 +1,16 @@
 ### Hi there 👋 I'm Elton!
 
-* 🏠 My Porfolio Page: https://eltonlau.vercel.app
-* 🚀 Programming Languages: **JavaScript**, **TypeScript**, **Python**
-* 🔭 I’m currently working on: Bollocks - A fun group game to guess the true meaning of weird words
-* 🌱 I’m currently reading: [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
-* 📫 How to reach me: eltonlau94@gmail.com or [LinkedIn](https://www.linkedin.com/in/elton-lau/)
 
-Last update: 2023-04-30
+* 🚀 Programming Languages: **JavaScript**, **TypeScript**, **Python**
+* 🔭 I’m currently working on: [Laws of Agile - A curated collection of heuristic principles, maxims, and observations for tech leaders and practitioners.](https://lawsofagile.com)
+* 🌱 I’m currently reading: [The Data Engineering Cookbook]([https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41](https://github.com/andkret/Cookbook)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elton-lau/)
+
+Last update: 2026-01-15
 
 <!--
 **elton-lau/elton-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🏠 My Porfolio Page: https://eltonlau.vercel.app
 -->
 
 
