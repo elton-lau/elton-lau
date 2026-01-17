@@ -2,7 +2,7 @@
 
 
 * 🚀 Programming Languages: **JavaScript**, **TypeScript**, **Python**
-* 🔭 I’m currently working on: [Laws of Agile - A curated collection of heuristic principles, maxims, and observations for tech leaders and practitioners.](https://lawsofagile.com)
+* 🔭 I’m currently working on: [Laws of Agile - A curated collection of heuristic principles about Agile & DevOps](https://lawsofagile.com)
 * 🌱 I’m currently reading: [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elton-lau/)
 
